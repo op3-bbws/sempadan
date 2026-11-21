@@ -1,0 +1,21 @@
+{
+  "name": "KEMENPU - Database Bangunan Irigasi",
+  "short_name": "Database Irigasi",
+  "description": "Sistem pendataan terpadu bangunan irigasi Kementerian PUPR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F4F1EA",
+  "theme_color": "#F4F1EA",
+  "icons": [
+    {
+      "src": "assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
